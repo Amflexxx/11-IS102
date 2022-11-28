@@ -1,5 +1,5 @@
 # 11-IS102
-Участники команды:
-Сафонов Александр Константинович 11-ИС102
-Шагалов Денис Амирович 11-ИС102
-Кривецкий Николай Николаевич 11-ИС102
+Team participants:
+Safonof Alexander Konstantinovich 11-IS102
+Shagapov Denis Amirovich 11-IS102
+Krivetsky Nikolay Nikolaevich 11-IS102
